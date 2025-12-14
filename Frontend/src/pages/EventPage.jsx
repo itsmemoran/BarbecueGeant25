@@ -1,4 +1,4 @@
-import Navbar from '../Components/navbar'
+import Navbar from '../Components/Navbar'
 import APropos from '../Components/APropos' 
 import Hero from '../Components/Hero'
 import Footer from '../Components/Footer'
