@@ -10,7 +10,8 @@ import {
   Bars3Icon,
   XMarkIcon,
 } from '@heroicons/react/24/outline'
-import Banner from './banner.jsx'
+import Banner from './Banner.jsx'; // exact casing
+
 
 export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
